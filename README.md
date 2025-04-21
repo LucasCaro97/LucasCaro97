@@ -9,7 +9,7 @@ I am currently organizing my portfolio and developed projects, so that they can 
 
 I am actively looking for remote work and I hope to be able to contribute to the team with my skills.
 
-<h2>🌐 Proyects </h2>
+<h2>🛰️ Running Projects </h2>
 
 [![🍔 DigiMenu](https://img.shields.io/badge/Menu_Online-Visit-orange?style=for-the-badge&logo=springboot)](http://digimenu.com.ar/)
 
