@@ -9,29 +9,6 @@ I'm actively seeking remote opportunities where I can contribute my skills, grow
 In my free time, I enjoy training for padel tournaments and playing the drums â€” especially when it involves making a lot of noise.
 
 ### **Technologies I work with**
-<h3>Backend</h3>
-<ul>
-  <li>Java</li>
-  <li>Spring Boot</li>
-  <li>Spring Security</li>
-  <li>MySQL</li>
-  <li>JPA</li>
-  <li>Hibernate</li>
-  <li>Oauth2</li>
-  <li>Keycloak</li>
-  <li>Docker</li>
-  <li>Python</li>
-</ul>
-
-<h3>Frontend</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>React.js</li>
-  <li>Bootstrap</li>
-  <li>Tailwind</li>
-</ul>
 
 | **Backend**                           | **Frontend**                             |
 |---------------------------------------|------------------------------------------|
@@ -41,7 +18,7 @@ In my free time, I enjoy training for padel tournaments and playing the drums â€
 | - MySQL                               | - React.js                               |
 | - JPA                                 | - Bootstrap                              |
 | - Hibernate                           | - Tailwind                               |
-| - Oauth2                              |                                          |
+| - Oauth2                              | - Thymeleaf                              |
 | - Keycloak                            |                                          |
 | - Docker                              |                                          |
 | - Python                              |                                          |
