@@ -9,6 +9,10 @@ I am currently organizing my portfolio and developed projects, so that they can 
 
 I am actively looking for remote work and I hope to be able to contribute to the team with my skills.
 
+Practice Proyects:
+[![Encriptador de texto](https://img.shields.io/badge/Mi%20Proyecto-Web-blue?style=for-the-badge&logo=vercel)]([https://mi-proyecto.vercel.app](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/))
+
+
 
 
  
