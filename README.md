@@ -9,10 +9,18 @@ I am currently organizing my portfolio and developed projects, so that they can 
 
 I am actively looking for remote work and I hope to be able to contribute to the team with my skills.
 
-Practice Proyects:
-[![Encriptador de texto](https://img.shields.io/badge/Mi%20Proyecto-Web-blue?style=for-the-badge&logo=vercel)]([https://mi-proyecto.vercel.app](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/))
+<h2>🌐 Proyects </h2>
 
-
-
+<p align="left">
+  <a href="https://mi-proyecto.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Proyecto%201-En%20línea-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://mi-api-deploy.com" target="_blank">
+    <img src="https://img.shields.io/badge/API%20Spring-En%20línea-green?style=for-the-badge&logo=springboot" />
+  </a>
+  <a href="https://lucasportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Online-lightgrey?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
  
