@@ -4,14 +4,18 @@
 
 ### **Technologies I work with**
 
-[![Java](https://img.shields.io/badge/Java-F8C32C?logo=java&style=flat-square)](https://www.java.com/en/)  
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&style=flat-square)](https://spring.io/projects/spring-boot)  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square)](https://reactjs.org/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square)](https://www.mysql.com/)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square)](https://www.docker.com/)  
-[![OAuth](https://img.shields.io/badge/OAuth-2.0-FFCC33?logo=oauth&style=flat-square)](https://oauth.net/2/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&style=flat-square)](https://tailwindcss.com/)  
-[![Hibernate](https://img.shields.io/badge/Hibernate-5f5f5f?logo=hibernate&style=flat-square)](https://hibernate.org/)
+### **Technologies I work with**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-F8C32C?logo=java&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/OAuth-2.0-FFCC33?logo=oauth&style=flat-square" alt="OAuth" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Hibernate-5f5f5f?logo=hibernate&style=flat-square" alt="Hibernate" />
+</p>
 
 
 I’m a Full Stack Developer specialized in Java, Spring Boot, and React.js.
