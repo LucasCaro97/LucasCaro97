@@ -11,5 +11,8 @@ I am actively looking for remote work and I hope to be able to contribute to the
 
 <h2>🌐 Proyects </h2>
 
-[![🔐 Text Encryptor](https://img.shields.io/badge/Text_Encryptor-Visit-blue?style=for-the-badge&logo=githubpages)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
- 
+[![🔐 DigiMenu](https://img.shields.io/badge/DigiMenu-Visit-blue?style=for-the-badge&logo=ubereats)](http://digimenu.com.ar/)
+
+[![🔐 Currency Converter](https://img.shields.io/badge/Currency_Converter-Visit-blue?style=for-the-badge&logo=moneygram)](http://149.50.148.20:5173/)
+
+[![🔐 Text Encryptor](https://img.shields.io/badge/Text_Encryptor-Visit-blue?style=for-the-badge&logo=keepassxc)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
