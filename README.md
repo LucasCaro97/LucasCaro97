@@ -33,6 +33,19 @@ In my free time, I enjoy training for padel tournaments and playing the drums �
   <li>Tailwind</li>
 </ul>
 
+| **Backend**                           | **Frontend**                             |
+|---------------------------------------|------------------------------------------|
+| - Java                                | - HTML                                   |
+| - Spring Boot                         | - CSS                                    |
+| - Spring Security                     | - Javascript                             |
+| - MySQL                               | - React.js                               |
+| - JPA                                 | - Bootstrap                              |
+| - Hibernate                           | - Tailwind                               |
+| - Oauth2                              |                                          |
+| - Keycloak                            |                                          |
+| - Docker                              |                                          |
+| - Python                              |                                          |
+
 
 
 <h2>🛰️ Running Projects </h2>
