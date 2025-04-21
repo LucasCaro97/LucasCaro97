@@ -11,13 +11,5 @@ I am actively looking for remote work and I hope to be able to contribute to the
 
 <h2>🌐 Proyects </h2>
 
-[![🔐 Encriptador de Texto](https://img.shields.io/badge/Encriptador-Visitar-blue?style=for-the-badge&logo=githubpages)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
-
-
-<p align="left">
-  <a href="https://mi-proyecto.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Proyecto%201-En%20línea-blue?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
+[![🔐 Text Encryptor](https://img.shields.io/badge/Encriptador-Visitar-blue?style=for-the-badge&logo=githubpages)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
  
