@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is Lucas Caro
 
-Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tu-usuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/lucas-nahuel-caro/))
 
 
 Im a Full Stack Developer, specialized in Java, Spring Boot and React.js.
