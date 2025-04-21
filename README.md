@@ -11,7 +11,7 @@ I am actively looking for remote work and I hope to be able to contribute to the
 
 <h2>🌐 Proyects </h2>
 
-[![🍔 DigiMenu](https://img.shields.io/badge/Menu_Online-Visit-orange?style=for-the-badge)](http://digimenu.com.ar/)
+[![🍔 DigiMenu](https://img.shields.io/badge/Menu_Online-Visit-orange?style=for-the-badge&logo=springboot)](http://digimenu.com.ar/)
 
 [![🔐 Currency Converter](https://img.shields.io/badge/Currency_Converter-Visit-blue?style=for-the-badge&logo=moneygram)](http://149.50.148.20:5173/)
 
