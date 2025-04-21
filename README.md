@@ -11,5 +11,5 @@ I am actively looking for remote work and I hope to be able to contribute to the
 
 <h2>🌐 Proyects </h2>
 
-[![🔐 Text Encryptor](https://img.shields.io/badge/Encriptador-Visitar-blue?style=for-the-badge&logo=githubpages)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
+[![🔐 Text Encryptor](https://img.shields.io/badge/Text_Encryptor-Visit-blue?style=for-the-badge&logo=githubpages)](https://lucascaro97.github.io/ChallengeEncriptadorTextoAlura/)
  
